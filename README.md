@@ -2,5 +2,6 @@
 
 coding after the bootcamp
 
-#Simple Bootstrap Portfolio website
+# Simple Bootstrap Portfolio website
+![](images/homepage.png)
 
